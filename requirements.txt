@@ -1,0 +1,9 @@
+pytest
+assertpy
+allure-pytest
+requests
+selenium
+webdriver_manager
+pydantic
+pytest-html
+pytest_bdd==4.0.1
